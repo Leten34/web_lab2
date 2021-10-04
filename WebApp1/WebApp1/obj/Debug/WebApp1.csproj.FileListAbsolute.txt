@@ -1,0 +1,10 @@
+C:\Users\cdodji\source\repos\WebApp1\WebApp1\bin\Debug\WebApp1.exe.config
+C:\Users\cdodji\source\repos\WebApp1\WebApp1\bin\Debug\WebApp1.exe
+C:\Users\cdodji\source\repos\WebApp1\WebApp1\bin\Debug\WebApp1.pdb
+C:\Users\cdodji\source\repos\WebApp1\WebApp1\obj\Debug\WebApp1.csprojResolveAssemblyReference.cache
+C:\Users\cdodji\source\repos\WebApp1\WebApp1\obj\Debug\WebApp1.Form1.resources
+C:\Users\cdodji\source\repos\WebApp1\WebApp1\obj\Debug\WebApp1.Properties.Resources.resources
+C:\Users\cdodji\source\repos\WebApp1\WebApp1\obj\Debug\WebApp1.csproj.GenerateResource.Cache
+C:\Users\cdodji\source\repos\WebApp1\WebApp1\obj\Debug\WebApp1.csproj.CoreCompileInputs.cache
+C:\Users\cdodji\source\repos\WebApp1\WebApp1\obj\Debug\WebApp1.exe
+C:\Users\cdodji\source\repos\WebApp1\WebApp1\obj\Debug\WebApp1.pdb
